@@ -32,14 +32,14 @@ Delivered a professional, end-to-end business intelligence solution that enables
 
 ### Dashboard Screenshots
 **Executive / Overview Page**  
-![Overview]<img width="1426" height="788" alt="Screenshot 2026-08-03 114027" src="https://github.com/user-attachments/assets/984f1251-ade1-4a7e-ad07-c3226f4aa7c7" />
+<img width="1426" height="788" alt="Screenshot 2026-08-03 114027" src="https://github.com/user-attachments/assets/984f1251-ade1-4a7e-ad07-c3226f4aa7c7" />
 
 **Regional / Map View**  
-![Regional]<img width="1427" height="780" alt="Screenshot 2026-08-03 114040" src="https://github.com/user-attachments/assets/9d59bf0c-0e80-4e7a-82c1-b4b85c35dbc8" />
+<img width="1427" height="780" alt="Screenshot 2026-08-03 114040" src="https://github.com/user-attachments/assets/9d59bf0c-0e80-4e7a-82c1-b4b85c35dbc8" />
 
 
 **Product Analysis**  
-![Products]<img width="1430" height="780" alt="Screenshot 2026-08-03 114049" src="https://github.com/user-attachments/assets/3cc607c3-f681-42dc-91eb-2e2f05bd91b0" />
+<img width="1430" height="780" alt="Screenshot 2026-08-03 114049" src="https://github.com/user-attachments/assets/3cc607c3-f681-42dc-91eb-2e2f05bd91b0" />
 
 **Customer Analysis**  
-![Customers]<img width="1416" height="782" alt="Screenshot 2026-08-03 114100" src="https://github.com/user-attachments/assets/a19b107f-aa9f-4a4d-9165-f6bc364db44c" />
+<img width="1416" height="782" alt="Screenshot 2026-08-03 114100" src="https://github.com/user-attachments/assets/a19b107f-aa9f-4a4d-9165-f6bc364db44c" />
